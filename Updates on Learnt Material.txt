@@ -1,0 +1,6 @@
+-Statistics(Hypothesis Testing)
+-Python
+-Advanced Statistical Methods in Python
+-Linear Regression with StatsModels
+-Multiple Linear Regression with StatsModels
+-Linear Regression with sklearn
